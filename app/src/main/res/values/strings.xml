@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SplashPokemon</string>
+    <string name="pokemon_image">Imagem do Pokemon</string>
+</resources>

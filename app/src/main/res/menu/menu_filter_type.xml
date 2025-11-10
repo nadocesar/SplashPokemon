@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/type_fire"
+        android:title="Fire"/>
+
+    <item
+        android:id="@+id/type_water"
+        android:title="Water"/>
+
+    <item
+        android:id="@+id/type_grass"
+        android:title="Grass"/>
+</menu>
